@@ -3,3 +3,8 @@ div{
     padding: 10px;
     margin: 10px;
 }
+.partho{
+    background-color: brown;
+    box-shadow: 10px 20px salmon;
+    border: 2px solid;
+}
